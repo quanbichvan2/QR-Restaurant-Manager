@@ -1,17 +1,15 @@
-E:\FPT\DA1\QR2\BUS\bin\Debug\net7.0\BUS.deps.json
-E:\FPT\DA1\QR2\BUS\bin\Debug\net7.0\BUS.dll
-E:\FPT\DA1\QR2\BUS\bin\Debug\net7.0\BUS.pdb
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.AssemblyInfoInputs.cache
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.AssemblyInfo.cs
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.csproj.CoreCompileInputs.cache
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.dll
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\refint\BUS.dll
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.pdb
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\ref\BUS.dll
-E:\FPT\DA1\QR2\BUS\bin\Debug\net7.0\BUS.runtimeconfig.json
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.csproj.AssemblyReference.cache
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.genruntimeconfig.cache
-E:\FPT\DA1\QR2\BUS\bin\Debug\net7.0\DAL.dll
-E:\FPT\DA1\QR2\BUS\bin\Debug\net7.0\DAL.pdb
-E:\FPT\DA1\QR2\BUS\obj\Debug\net7.0\BUS.csproj.CopyComplete
+E:\FPT\DA1\QR3 WPF\BUS\bin\Debug\net7.0\BUS.deps.json
+E:\FPT\DA1\QR3 WPF\BUS\bin\Debug\net7.0\BUS.dll
+E:\FPT\DA1\QR3 WPF\BUS\bin\Debug\net7.0\BUS.pdb
+E:\FPT\DA1\QR3 WPF\BUS\bin\Debug\net7.0\DAL.dll
+E:\FPT\DA1\QR3 WPF\BUS\bin\Debug\net7.0\DAL.pdb
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.csproj.AssemblyReference.cache
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.AssemblyInfoInputs.cache
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.AssemblyInfo.cs
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.csproj.CoreCompileInputs.cache
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.csproj.CopyComplete
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.dll
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\refint\BUS.dll
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\BUS.pdb
+E:\FPT\DA1\QR3 WPF\BUS\obj\Debug\net7.0\ref\BUS.dll
